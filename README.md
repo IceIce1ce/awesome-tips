@@ -43,6 +43,7 @@ A curated list of tips on various topics.
 - [How to organize your talk?](https://twitter.com/jbhuang0604/status/1509033327981965313)
 - [How to design your presentation?](https://x.com/jbhuang0604/status/1865199644415832424)
 - [How to avoid common mistakes in your presentation?](https://x.com/jbhuang0604/status/1866987294894231756)
+- [How to organize your talk?](https://x.com/jbhuang0604/status/1983579012476621192)
 
 ### Poster Presentation
 - [How to make a research poster?](https://twitter.com/jbhuang0604/status/1438948793718804486)
